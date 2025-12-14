@@ -10,3 +10,5 @@ Here is some unformatted next for comparison.
 Here is some unformatted next for comparison.
 ###### This is an `<h6>` header, which is the smallest
 Here is some unformatted next for comparison.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
